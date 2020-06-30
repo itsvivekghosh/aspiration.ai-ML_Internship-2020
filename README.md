@@ -1,5 +1,5 @@
 # Machine-Learning-Internship Project 2020 (Company Name: TCS)
-This is a internship project by Career Launcher.
+This is a `Internship Data Analysis Project` on `Financial Markets` by `Career Launcher`.
 
 ## Welcome!
 
@@ -31,6 +31,8 @@ In this project students are given stockes prices of various companies listed in
 - Module 6: In this module the cluster analysis is a technique used to group sets of objects that share similar characteristics. It is common in statistics, but investors use the approach to build a diversified portfolio. This is so because, stocks that exhibit high correlations in returns fall into one basket, those slightly less correlated in another, and so on, until each stock is placed into a category.
 
 ## About Author:<br>
-- Name: Vivek Kuamr Ghosh
+- Name: Vivek Kumar Ghosh
 - University: Uttaranchal University, Dehradun
 - E-mail: soapmactevis1@gmail.com
+- LinkedIn: https://www.linkedin.com/in/itsvivekghosh
+- Facebook: https://www.facebook.com/itsvivekghosh
