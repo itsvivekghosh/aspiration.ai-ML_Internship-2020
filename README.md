@@ -18,8 +18,8 @@ Disclaimer before contributing: Only significant contributions to this project w
 ### AICTE-Aspiration.ai_ML-DS
 #### Financial Market Analysis
 
-This is a financial marketing internship offered by Career Launcher and AICTE to the data science skills of the students. This project has been divded into 6 modules covering differnet methods used in financial analuysis of stocks.
-In this project students are given stockes prices of various companies listed in the NSE(National Stock Exchange) divded on the basis of their market caps.
+This is a financial marketing `Internship` offered by `Career Launcher` and `AICTE` to the data science skills of the students. This project has been divded into 6 modules covering differnet methods used in financial analuysis of stocks.
+In this project students are given stockes prices of various companies listed in the `NSE(National Stock Exchange)` divided on the basis of their market caps.
 
 #### Description of Modules:
 
